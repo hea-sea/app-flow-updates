@@ -1,9 +1,9 @@
-version: 1.0.15
+version: 1.0.16
 files:
-  - url: app-flow-1.0.15-setup.exe
-    sha512: Y1WsubaZUpJw6qtigtl3UxsGOh6+FK7vswnLRrW6wSQPjzhhhBQk+o6D8IygR/KE5QPtuPDpCNTtxAoOnzbvUA==
-    size: 97043416
-path: app-flow-1.0.15-setup.exe
-sha512: Y1WsubaZUpJw6qtigtl3UxsGOh6+FK7vswnLRrW6wSQPjzhhhBQk+o6D8IygR/KE5QPtuPDpCNTtxAoOnzbvUA==
-releaseNotes: 测试更新源
-releaseDate: '2025-12-30T02:54:34.646Z'
+  - url: app-flow-1.0.16-setup.exe
+    sha512: Ht9o01yH30DGty1OyukIUKEEqrf62mHWPs6fe7keTxKJjCUtnJYYmIYNMGEuKidz8eLpoqkuMuIoiZy5tDsX0g==
+    size: 97044136
+path: app-flow-1.0.16-setup.exe
+sha512: Ht9o01yH30DGty1OyukIUKEEqrf62mHWPs6fe7keTxKJjCUtnJYYmIYNMGEuKidz8eLpoqkuMuIoiZy5tDsX0g==
+releaseNotes: 测试更新源1.6
+releaseDate: '2025-12-30T03:25:10.857Z'
